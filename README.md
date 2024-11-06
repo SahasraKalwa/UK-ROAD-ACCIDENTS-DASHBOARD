@@ -10,4 +10,5 @@ This dashboard gives the insights of UK ROAD ACCIDENTS in the year 2021 and 2022
 --Relation between Casualties by Area/Location and by Day/Night.  
 ##Insights:  
 --Cars has maximum casualties with 10763 which is 80% of 13661 total casualties.  
+--Most of the accidents took place in Urban areas and in the daylight.  
 --
