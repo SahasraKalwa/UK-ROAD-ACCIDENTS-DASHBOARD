@@ -1,6 +1,6 @@
 # UK-ROAD-ACCIDENTS-DASHBOARD
 This dashboard gives the insights of UK ROAD ACCIDENTS in the year 2021 and 2022.  USED MS EXCEL for data cleaning and visualization.   
-##Qustions:  
+##Questions:  
 -PRIMARY KPI: Total casualties taken place after the accident.  
 -- Total casualties and percentage of total with respect to accident severity and maximum casualties by type of vehicle.  
 -SECONDARY KPI's: Total casualties with respect to vehicle type.  
